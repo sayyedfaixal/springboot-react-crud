@@ -40,7 +40,7 @@ cd backend
 ./mvnw spring-boot:run
 ```
 
-### 4. 3. Frontend Setup (ReactJS with Vite) ⚛️
+### 3. Frontend Setup (ReactJS with Vite) ⚛️
 
 - Navigate to the frontend folder:
 
